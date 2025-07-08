@@ -18,19 +18,20 @@ El objetivo es entregar una plataforma moderna, responsive y funcional para mejo
 ---
 
 ## 📁 Estructura del Proyecto
+```
 mpg-maquinarias/
 ├── public/
-│ └── logos/, maquinas/, etc.
+│   └── logos/, maquinas/, etc.
 ├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── HeroCarousel.jsx
-│ │ └── CotizacionModal.jsx
-│ ├── App.jsx
-│ └── main.jsx
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── HeroCarousel.jsx
+│   │   └── CotizacionModal.jsx
+│   ├── App.jsx
+│   └── main.jsx
 ├── index.html
 └── README.md
-
+```
 
 ---
 
@@ -67,9 +68,10 @@ npm install
 # Ejecutar el proyecto en modo desarrollo
 npm run dev
 ```
+---
 
-```El proyecto se abrirá en: `http://localhost:5173/`
-
+El proyecto se abrirá en: `http://localhost:5173/`
+``
 ---
 
 ## ✍️ Autor
