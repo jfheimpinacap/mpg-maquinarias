@@ -64,8 +64,12 @@ cd mpg-maquinarias
 # Instalar dependencias
 npm install
 
+```markdown
 # Ejecutar el proyecto en modo desarrollo
 npm run dev
+
+```markdown
+El proyecto se abrirá en: `http://localhost:5173/`
 
 ---
 
