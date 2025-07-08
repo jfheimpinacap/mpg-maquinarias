@@ -64,17 +64,16 @@ cd mpg-maquinarias
 # Instalar dependencias
 npm install
 
-```markdown
 # Ejecutar el proyecto en modo desarrollo
 npm run dev
+```
 
-```markdown
-El proyecto se abrirá en: `http://localhost:5173/`
+```El proyecto se abrirá en: `http://localhost:5173/`
 
 ---
 
 ## ✍️ Autor
-Franz Heim
+**Franz Heim**
 GitHub - jfheimpinacap
 Proyecto evaluado en el ramo Programación Front End
 
