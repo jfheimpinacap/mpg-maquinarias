@@ -74,7 +74,9 @@ npm run dev
 
 ## ✍️ Autor
 **Franz Heim**
+
 GitHub - jfheimpinacap
+
 Proyecto evaluado en el ramo Programación Front End
 
 📝 Licencia
