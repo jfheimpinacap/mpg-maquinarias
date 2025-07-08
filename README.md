@@ -69,7 +69,9 @@ npm run dev
 
 El proyecto se abrirá en: http://localhost:5173/
 
-✍️ Autor
+---
+
+##✍️ Autor
 Franz Heim
 GitHub - jfheimpinacap
 Proyecto evaluado en el ramo Programación Front End
