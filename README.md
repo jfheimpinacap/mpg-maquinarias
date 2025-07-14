@@ -20,17 +20,24 @@ El objetivo es entregar una plataforma moderna, responsive y funcional para mejo
 ## 📁 Estructura del Proyecto
 ```
 mpg-maquinarias/
+├── node_modules
 ├── public/
-│   └── logos/, maquinas/, etc.
+│   └── logos/, maquinas/, camiones/,fichas tecnicas/,imagenes portada
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx
 │   │   ├── HeroCarousel.jsx
 │   │   └── CotizacionModal.jsx
+│   ├── App.css
 │   ├── App.jsx
+│   ├── index.css
 │   └── main.jsx
 ├── index.html
-└── README.md
+├── README.md
+├── eslint.config.js
+├── package-lock.json
+├── package.json
+└── vite.config.js
 ```
 
 ---
