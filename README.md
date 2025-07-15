@@ -27,6 +27,7 @@ mpg-maquinarias/
 │   ├── components/
 │   │   ├── Navbar.jsx
 │   │   ├── HeroCarousel.jsx
+│   │   ├── UbicacionContacto.jsx
 │   │   └── CotizacionModal.jsx
 │   ├── App.css
 │   ├── App.jsx
