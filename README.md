@@ -22,7 +22,6 @@ El objetivo es entregar una plataforma moderna, responsive y funcional para mejo
 mpg-maquinarias/
 ├── node_modules
 ├── public/
-│   └── logos/, maquinas/, camiones/,fichas tecnicas/,imagenes portada
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx
