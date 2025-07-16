@@ -28,7 +28,8 @@ mpg-maquinarias/
 │   │   ├── Navbar.jsx
 │   │   ├── HeroCarousel.jsx
 │   │   ├── UbicacionContacto.jsx
-│   │   └── CotizacionModal.jsx
+│   │   ├── CotizacionModal.jsx
+│   │   └── logos/, maquinas/, camiones/,fichas tecnicas/,imagenes portada
 │   ├── App.css
 │   ├── App.jsx
 │   ├── index.css
@@ -79,6 +80,8 @@ npm run dev
 ---
 
 El proyecto se abrirá en: `http://localhost:5173/`
+o en:
+https://jfheimpinacap.github.io/mpg-maquinarias/
 ``
 ---
 
